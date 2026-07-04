@@ -30,7 +30,7 @@ function renderDisposableCards(items) {
     grid.innerHTML = '';
 
     items.forEach((item, index) => {
-        const statusLabel = item.availability ? 'есть в наличии' : 'нет в наличии';
+        
         const imageMap = {
             'Puffmi 12000': 'images/puffmi.png',
             'DualBar 12000': 'images/dualBar.png',
@@ -65,8 +65,7 @@ function showDisposableOverlay(item, index) {
 
     if (item.flavors && item.flavors.length > 0) {
         item.flavors.forEach((flavor, fIndex) => {
-            const status = flavor.availability ? 'in-stock' : 'out-of-stock';
-            const statusLabel = flavor.availability ? 'есть в наличии' : 'нет в наличии';
+            
 
             const row = document.createElement('div');
             row.className = 'product-list-item';
@@ -75,14 +74,12 @@ function showDisposableOverlay(item, index) {
                     <div class="name">${flavor.name}</div>
                     <div style="font-weight: 600; margin-top: 4px;">${item.price}</div>
                 </div>
-                <span class="status ${status}">${statusLabel}</span>
             `;
             body.appendChild(row);
         });
     } else {
-        const status = item.availability ? 'in-stock' : 'out-of-stock';
-        const statusLabel = item.availability ? 'есть в наличии' : 'нет в наличии';
-        body.innerHTML = `<p>Цена: ${item.price}</p><p>Статус: <span class="status ${status}">${statusLabel}</span></p>`;
+       
+        body.innerHTML = `<p>Цена: ${item.price}</p>`;
     }
 
     overlay.classList.add('active');

@@ -30,8 +30,6 @@ function renderPodCards(items) {
     grid.innerHTML = '';
 
     items.forEach((item, index) => {
-        const status = item.availability ? 'in-stock' : 'out-of-stock';
-        const statusLabel = item.availability ? 'есть в наличии' : 'нет в наличии';
         const imageMap = {
             'Xros 5 mini': 'images/xros_5_mini.png',
             'Xros 5': 'images/xros_5.png',
@@ -47,7 +45,6 @@ function renderPodCards(items) {
                 <div class="product-name">${item.name}</div>
                 <div class="product-description">Pod-система</div>
                 <div class="product-price">${item.price}</div>
-                <span class="product-status ${status}">${statusLabel}</span>
             </div>
         `;
         grid.appendChild(card);
