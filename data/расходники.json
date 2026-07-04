@@ -1,0 +1,1396 @@
+{
+  "items": [
+    {
+      "name": "ElfLiq 20/50mg",
+      "price": "20р",
+      "flavors": [
+        {
+          "name": "Яблоко персик",
+          "availability": true
+        },
+        {
+          "name": "Манго персик",
+          "availability": true
+        },
+        {
+          "name": "Клубника малина вишня лёд",
+          "availability": true
+        },
+        {
+          "name": "Ежевика лимон",
+          "availability": true
+        },
+        {
+          "name": "Черника малина гранат",
+          "availability": true
+        },
+        {
+          "name": "Редбулл",
+          "availability": true
+        },
+        {
+          "name": "Черника",
+          "availability": true
+        },
+        {
+          "name": "Черника роза мята",
+          "availability": true
+        },
+        {
+          "name": "Малина личи",
+          "availability": true
+        },
+        {
+          "name": "Зеленый виноград роза",
+          "availability": true
+        },
+        {
+          "name": "Микс ягод",
+          "availability": true
+        },
+        {
+          "name": "Лимон лайм",
+          "availability": true
+        },
+        {
+          "name": "Вишня лимон персик",
+          "availability": true
+        },
+        {
+          "name": "Виноград",
+          "availability": true
+        },
+        {
+          "name": "Виноград вишня",
+          "availability": true
+        },
+        {
+          "name": "Клубника киви",
+          "availability": true
+        },
+        {
+          "name": "Арбуз",
+          "availability": true
+        },
+        {
+          "name": "Персик",
+          "availability": true
+        }
+      ]
+    },
+    {
+      "name": "ElfLiq ice king 20/50mg",
+      "price": "20р",
+      "flavors": [
+        {
+          "name": "Виноград лёд",
+          "availability": true
+        },
+        {
+          "name": "Манго лёд",
+          "availability": true
+        },
+        {
+          "name": "Маракуйя лёд",
+          "availability": true
+        },
+        {
+          "name": "Манго персик лёд",
+          "availability": true
+        },
+        {
+          "name": "Медовая дыня лёд",
+          "availability": true
+        },
+        {
+          "name": "Клубника манго лёд",
+          "availability": true
+        },
+        {
+          "name": "Арбуз лёд",
+          "availability": true
+        },
+        {
+          "name": "Черника лёд",
+          "availability": true
+        },
+        {
+          "name": "Персик лёд",
+          "availability": true
+        }
+      ]
+    },
+    {
+      "name": "Rell AZURE 20mg",
+      "price": "20р",
+      "flavors": [
+        {
+          "name": "Киви маракуйя гуава",
+          "availability": true
+        },
+        {
+          "name": "Манго",
+          "availability": true
+        },
+        {
+          "name": "Манго гуава",
+          "availability": true
+        },
+        {
+          "name": "Ананас",
+          "availability": true
+        },
+        {
+          "name": "Кислый лимонад киви кактус",
+          "availability": true
+        },
+        {
+          "name": "Кислые манговые мармеладки",
+          "availability": true
+        },
+        {
+          "name": "Сладкая дыня",
+          "availability": true
+        },
+        {
+          "name": "Ананас маракуйя клюква",
+          "availability": true
+        },
+        {
+          "name": "Абрикосовый лимонад",
+          "availability": true
+        },
+        {
+          "name": "Арбуз",
+          "availability": true
+        },
+        {
+          "name": "Яблоко лимон",
+          "availability": true
+        }
+      ]
+    },
+    {
+      "name": "NICE SHOT Default/Double ice/No Sweet/Sour",
+      "price": "20р",
+      "flavors": [
+        {
+          "name": "Арбузный лимонад",
+          "availability": true
+        },
+        {
+          "name": "Киви маракуйя гуава",
+          "availability": true
+        },
+        {
+          "name": "Клубника банан",
+          "availability": true
+        },
+        {
+          "name": "Медовая дыня",
+          "availability": true
+        },
+        {
+          "name": "сакура виноград",
+          "availability": true
+        },
+        {
+          "name": "Красный мохито",
+          "availability": true
+        },
+        {
+          "name": "Черника малина",
+          "availability": true
+        },
+        {
+          "name": "Розовый лимонад",
+          "availability": true
+        },
+        {
+          "name": "Лимонад из манго",
+          "availability": true
+        },
+        {
+          "name": "Алоэ виноград",
+          "availability": true
+        },
+        {
+          "name": "Редбулл лесные ягоды",
+          "availability": true
+        },
+        {
+          "name": "Клубника драгонфрукт",
+          "availability": true
+        },
+        {
+          "name": "Персик арбуз манго",
+          "availability": true
+        },
+        {
+          "name": "Лимон лайм",
+          "availability": true
+        },
+        {
+          "name": "Белый виноград",
+          "availability": true
+        },
+        {
+          "name": "Персиковый сок",
+          "availability": true
+        },
+        {
+          "name": "Ледяная маракуйя с яблоком",
+          "availability": true
+        }
+      ]
+    },
+    {
+      "name": "Catswill х RandM 🆕",
+      "price": "20р",
+      "flavors": [
+        {
+          "name": "Кислые ленточки клубника ежевика",
+          "availability": true
+        },
+        {
+          "name": "Малина яблоко лёд",
+          "availability": true
+        },
+        {
+          "name": "Банан дыня мята",
+          "availability": true
+        },
+        {
+          "name": "Голубика арбуз",
+          "availability": true
+        },
+        {
+          "name": "Фрутелла лайм лимон малина",
+          "availability": true
+        },
+        {
+          "name": "Лимон лайм мелисса",
+          "availability": true
+        },
+        {
+          "name": "Лайм яблоко",
+          "availability": true
+        },
+        {
+          "name": "Скиттлс маракуйя лимон",
+          "availability": true
+        }
+      ]
+    },
+    {
+      "name": "Catswill PREMIUM 45mg",
+      "price": "20р",
+      "flavors": [
+        {
+          "name": "Клубника малина",
+          "availability": true
+        },
+        {
+          "name": "Ежевика мята виноград",
+          "availability": true
+        },
+        {
+          "name": "Клубничный мохито мята лайм айс",
+          "availability": true
+        },
+        {
+          "name": "Черешневый сок",
+          "availability": true
+        },
+        {
+          "name": "Ягодный ментол айс",
+          "availability": true
+        },
+        {
+          "name": "Киви малина",
+          "availability": true
+        },
+        {
+          "name": "Вишня лимон",
+          "availability": true
+        },
+        {
+          "name": "Малина вишня",
+          "availability": true
+        },
+        {
+          "name": "Ежевика",
+          "availability": true
+        },
+        {
+          "name": "Лимонад вишня арбуз",
+          "availability": true
+        },
+        {
+          "name": "Вишневый чупа чупс",
+          "availability": true
+        },
+        {
+          "name": "Синяя малина",
+          "availability": true
+        },
+        {
+          "name": "Лайм черника",
+          "availability": true
+        },
+        {
+          "name": "Голубика черный виноград",
+          "availability": true
+        },
+        {
+          "name": "Клубника кактус",
+          "availability": true
+        },
+        {
+          "name": "Черный виноград",
+          "availability": true
+        },
+        {
+          "name": "Яблочный скиттлс",
+          "availability": true
+        },
+        {
+          "name": "Клубничный энергетик",
+          "availability": true
+        }
+      ]
+    },
+    {
+      "name": "SliME(20mg)",
+      "price": "17р",
+      "flavors": [
+        {
+          "name": "Кислая клюква виноград",
+          "availability": true
+        },
+        {
+          "name": "Кислый ягодный швепс",
+          "availability": true
+        },
+        {
+          "name": "Кислый чупа-чупс",
+          "availability": true
+        },
+        {
+          "name": "Кислый цитрус виноград",
+          "availability": true
+        },
+        {
+          "name": "Кислый ананас малина",
+          "availability": true
+        },
+        {
+          "name": "Ягодный энергетик лёд",
+          "availability": true
+        },
+        {
+          "name": "Вишневая кола лёд",
+          "availability": true
+        },
+        {
+          "name": "Ягодный леденцы лед",
+          "availability": true
+        },
+        {
+          "name": "Дыня арбуз земляника лёд",
+          "availability": true
+        },
+        {
+          "name": "Апельсин черника лед",
+          "availability": true
+        },
+        {
+          "name": "Голубика смородина",
+          "availability": true
+        },
+        {
+          "name": "Кислый виноград смородина",
+          "availability": true
+        }
+      ]
+    },
+    {
+      "name": "Duall 20/45mg",
+      "price": "15р",
+      "flavors": [
+        {
+          "name": "Ягодный чай",
+          "availability": true
+        },
+        {
+          "name": "Черника мята",
+          "availability": true
+        },
+        {
+          "name": "Черника лимон",
+          "availability": true
+        },
+        {
+          "name": "Морозная дыня",
+          "availability": true
+        },
+        {
+          "name": "морозное яблоко",
+          "availability": true
+        },
+        {
+          "name": "Виноград клубника",
+          "availability": true
+        },
+        {
+          "name": "Дыня маракуйя",
+          "availability": true
+        },
+        {
+          "name": "Морозный виноград",
+          "availability": true
+        },
+        {
+          "name": "Экзотические фрукты",
+          "availability": true
+        },
+        {
+          "name": "Ледяная черника",
+          "availability": true
+        },
+        {
+          "name": "Лесные ягоды",
+          "availability": true
+        },
+        {
+          "name": "Клубничный йогурт",
+          "availability": true
+        },
+        {
+          "name": "Ягодный морс",
+          "availability": true
+        },
+        {
+          "name": "Манго малина",
+          "availability": true
+        },
+        {
+          "name": "Клубничный лимонад",
+          "availability": true
+        },
+        {
+          "name": "Морозная вишня",
+          "availability": true
+        },
+        {
+          "name": "ледяной арбуз дыня",
+          "availability": true
+        },
+        {
+          "name": "Яблоко виноград",
+          "availability": true
+        },
+        {
+          "name": "Холодная смородина",
+          "availability": true
+        },
+        {
+          "name": "Морозный редбулл",
+          "availability": true
+        },
+        {
+          "name": "Вишня клубника",
+          "availability": true
+        },
+        {
+          "name": "Яблоко малина",
+          "availability": true
+        },
+        {
+          "name": "Ледяная малина",
+          "availability": true
+        },
+        {
+          "name": "Ледяная клубника личи",
+          "availability": true
+        },
+        {
+          "name": "Морозный ананас",
+          "availability": true
+        },
+        {
+          "name": "Клубника банан",
+          "availability": true
+        },
+        {
+          "name": "Клубника киви",
+          "availability": true
+        },
+        {
+          "name": "Морозный арбуз",
+          "availability": true
+        },
+        {
+          "name": "Жвачка клубника киви",
+          "availability": true
+        },
+        {
+          "name": "Ледяной тархун",
+          "availability": true
+        },
+        {
+          "name": "Клубника лайм малина",
+          "availability": true
+        },
+        {
+          "name": "Манго кумкват",
+          "availability": true
+        },
+        {
+          "name": "Энергетик виноград",
+          "availability": true
+        },
+        {
+          "name": "Морозный спрайт",
+          "availability": true
+        },
+        {
+          "name": "Персиковый лимонад",
+          "availability": true
+        },
+        {
+          "name": "Мятные леденцы эвкалипт",
+          "availability": true
+        },
+        {
+          "name": "Киви гуава",
+          "availability": true
+        },
+        {
+          "name": "Арбузный лимонад",
+          "availability": true
+        },
+        {
+          "name": "Мятная жвачка",
+          "availability": true
+        },
+        {
+          "name": "Персиковый чай",
+          "availability": true
+        },
+        {
+          "name": "Персик киви",
+          "availability": true
+        },
+        {
+          "name": "Жвачка арбуз дыня",
+          "availability": true
+        },
+        {
+          "name": "Личи гуава",
+          "availability": true
+        },
+        {
+          "name": "Персик маракуйя",
+          "availability": true
+        },
+        {
+          "name": "Садовые ягоды",
+          "availability": true
+        },
+        {
+          "name": "Личи лайм маракуйя",
+          "availability": true
+        },
+        {
+          "name": "Йогурт персик маракуйя",
+          "availability": true
+        }
+      ]
+    },
+    {
+      "name": "ИндивиDuall 20/45mg",
+      "price": "15р",
+      "flavors": [
+        {
+          "name": "Морозный мохито",
+          "availability": true
+        },
+        {
+          "name": "Вишневый эклипс",
+          "availability": true
+        },
+        {
+          "name": "Кислая жвачка яблоко",
+          "availability": true
+        },
+        {
+          "name": "Кислая малиновая вата",
+          "availability": true
+        },
+        {
+          "name": "Кислые мармеладные змейки ягоды",
+          "availability": true
+        },
+        {
+          "name": "Кислый зеленый скиттлс",
+          "availability": true
+        },
+        {
+          "name": "Ледяная груша яблоко",
+          "availability": true
+        },
+        {
+          "name": "Лесные ягоды эвкалипт",
+          "availability": true
+        },
+        {
+          "name": "Лимонад голубая малина",
+          "availability": true
+        },
+        {
+          "name": "Малиновый лимонад",
+          "availability": true
+        },
+        {
+          "name": "Мармеладные мишки",
+          "availability": true
+        },
+        {
+          "name": "Мармеладки с клубникой",
+          "availability": true
+        },
+        {
+          "name": "Морозная фанта ягоды",
+          "availability": true
+        },
+        {
+          "name": "Спрайт виноград",
+          "availability": true
+        },
+        {
+          "name": "Энергетик черника",
+          "availability": true
+        },
+        {
+          "name": "Редбулл киви яблоко",
+          "availability": true
+        },
+        {
+          "name": "Редбулл кислые ягоды",
+          "availability": true
+        },
+        {
+          "name": "Кислые дикие ягоды гранат",
+          "availability": true
+        },
+        {
+          "name": "Ледяной арбуз клубника",
+          "availability": true
+        },
+        {
+          "name": "Кислое манго клубника",
+          "availability": true
+        },
+        {
+          "name": "Морозная черника гранат",
+          "availability": true
+        },
+        {
+          "name": "Морозная фанта",
+          "availability": true
+        },
+        {
+          "name": "Кола вишня",
+          "availability": true
+        }
+      ]
+    },
+    {
+      "name": "Rick and Morty \"На Замерзоне\" 50mg",
+      "price": "17р",
+      "flavors": [
+        {
+          "name": "Чернично-малиновые черви",
+          "availability": true
+        },
+        {
+          "name": "Черная смородина лимонад",
+          "availability": true
+        },
+        {
+          "name": "Алоэ виноград",
+          "availability": true
+        },
+        {
+          "name": "Вишневые червячки",
+          "availability": true
+        },
+        {
+          "name": "Земляника виноград",
+          "availability": true
+        },
+        {
+          "name": "Ягодный энергетик",
+          "availability": true
+        },
+        {
+          "name": "Малиновый мармелад",
+          "availability": true
+        },
+        {
+          "name": "Ягодный пунш",
+          "availability": true
+        },
+        {
+          "name": "Кола вишня",
+          "availability": true
+        },
+        {
+          "name": "Вишневый лимонад",
+          "availability": true
+        },
+        {
+          "name": "Спрайт",
+          "availability": true
+        },
+        {
+          "name": "Малиновый мармелад",
+          "availability": true
+        },
+        {
+          "name": "Черничная фанта",
+          "availability": true
+        },
+        {
+          "name": "Персик кактус",
+          "availability": true
+        },
+        {
+          "name": "Клубничный коктейль",
+          "availability": true
+        },
+        {
+          "name": "Манго драгонфрукт",
+          "availability": true
+        },
+        {
+          "name": "манго арбуз",
+          "availability": true
+        },
+        {
+          "name": "Смородина виноград",
+          "availability": true
+        },
+        {
+          "name": "Лесные ягоды",
+          "availability": true
+        },
+        {
+          "name": "Земляника виноград",
+          "availability": true
+        },
+        {
+          "name": "Киви маракуйя гуава",
+          "availability": true
+        },
+        {
+          "name": "Смородина лайм",
+          "availability": true
+        },
+        {
+          "name": "Красный апельсин",
+          "availability": true
+        },
+        {
+          "name": "Черника арбуз",
+          "availability": true
+        }
+      ]
+    },
+    {
+      "name": "Rick and Morty \"Bad Trip\"",
+      "price": "17р",
+      "flavors": [
+        {
+          "name": "Арбуз малина",
+          "availability": true
+        },
+        {
+          "name": "Яблоко виноград",
+          "availability": true
+        },
+        {
+          "name": "Фруктовые пластинки",
+          "availability": true
+        },
+        {
+          "name": "Киви личи",
+          "availability": true
+        },
+        {
+          "name": "Северные ягоды",
+          "availability": true
+        },
+        {
+          "name": "Черника ежевика",
+          "availability": true
+        },
+        {
+          "name": "Киви маракуйя гуава",
+          "availability": true
+        },
+        {
+          "name": "Смородиновый мармелад",
+          "availability": true
+        },
+        {
+          "name": "Гранат клубника",
+          "availability": true
+        },
+        {
+          "name": "Скиттлс лимон лайм",
+          "availability": true
+        },
+        {
+          "name": "Клубника банан",
+          "availability": true
+        },
+        {
+          "name": "Яблоко малина",
+          "availability": true
+        },
+        {
+          "name": "Черника арбуз",
+          "availability": true
+        },
+        {
+          "name": "Манго личи персик",
+          "availability": true
+        },
+        {
+          "name": "Черная вишня",
+          "availability": true
+        },
+        {
+          "name": "Кола лайм",
+          "availability": true
+        },
+        {
+          "name": "Земляника драгонфрукт",
+          "availability": true
+        },
+        {
+          "name": "Персик баблгам",
+          "availability": true
+        }
+      ]
+    },
+    {
+      "name": "Rick and Morty \"Bad Trip Ice\"",
+      "price": "17р",
+      "flavors": [
+        {
+          "name": "Алоэ виноград",
+          "availability": true
+        },
+        {
+          "name": "Ежевика мята",
+          "availability": true
+        },
+        {
+          "name": "Малиновый мармелад",
+          "availability": true
+        },
+        {
+          "name": "Чернично-клубничный фреш",
+          "availability": true
+        },
+        {
+          "name": "Яблоко черника",
+          "availability": true
+        },
+        {
+          "name": "Малина лайм",
+          "availability": true
+        },
+        {
+          "name": "Персик клубника",
+          "availability": true
+        },
+        {
+          "name": "Арбуз манго",
+          "availability": true
+        }
+      ]
+    },
+    {
+      "name": "Podonki PODGON 50mg",
+      "price": "15р",
+      "flavors": [
+        {
+          "name": "Ягодный микс мята",
+          "availability": true
+        },
+        {
+          "name": "Черничная конфета",
+          "availability": true
+        },
+        {
+          "name": "Смородина малина",
+          "availability": true
+        },
+        {
+          "name": "Тропические фрукты",
+          "availability": true
+        },
+        {
+          "name": "Мультифрукт",
+          "availability": true
+        },
+        {
+          "name": "Жвачка черника мята",
+          "availability": true
+        },
+        {
+          "name": "Виноград мята",
+          "availability": true
+        },
+        {
+          "name": "Ягодный энергетик",
+          "availability": true
+        },
+        {
+          "name": "Малиновый лимонад",
+          "availability": true
+        },
+        {
+          "name": "Смородина виноград",
+          "availability": true
+        },
+        {
+          "name": "Яблоко вишня",
+          "availability": true
+        },
+        {
+          "name": "Лесные ягоды",
+          "availability": true
+        },
+        {
+          "name": "Ежевика малина",
+          "availability": true
+        },
+        {
+          "name": "Смородина холлс",
+          "availability": true
+        },
+        {
+          "name": "Виноград холлс",
+          "availability": true
+        },
+        {
+          "name": "Сочная дыня",
+          "availability": true
+        },
+        {
+          "name": "Малина земляника",
+          "availability": true
+        },
+        {
+          "name": "Дыня банан",
+          "availability": true
+        },
+        {
+          "name": "Ежевика черника",
+          "availability": true
+        }
+      ]
+    },
+    {
+      "name": "Podonki INFERNO 80mg",
+      "price": "20р",
+      "flavors": [
+        {
+          "name": "Персик",
+          "availability": true
+        },
+        {
+          "name": "Клубника банан",
+          "availability": true
+        },
+        {
+          "name": "Клубника вишня",
+          "availability": true
+        },
+        {
+          "name": "Малина ежевика",
+          "availability": true
+        },
+        {
+          "name": "Цитрусовый микс",
+          "availability": true
+        },
+        {
+          "name": "Клубничная шипучка",
+          "availability": true
+        },
+        {
+          "name": "Малина черника",
+          "availability": true
+        },
+        {
+          "name": "Черника вишня",
+          "availability": true
+        },
+        {
+          "name": "Клубника грейпфрут малина",
+          "availability": true
+        },
+        {
+          "name": "Арбуз черника",
+          "availability": true
+        }
+      ]
+    },
+    {
+      "name": "Podonki VINTAGE 50/60mg",
+      "price": "17р",
+      "flavors": [
+        {
+          "name": "Брусничный морс",
+          "availability": true
+        },
+        {
+          "name": "Мармеладный джин",
+          "availability": true
+        },
+        {
+          "name": "Земляничный мусс",
+          "availability": true
+        },
+        {
+          "name": "Смородиновый лимонад",
+          "availability": true
+        },
+        {
+          "name": "Ежевичный лимонад",
+          "availability": true
+        },
+        {
+          "name": "Клубничный мохито",
+          "availability": true
+        },
+        {
+          "name": "Морс черника виноград",
+          "availability": true
+        },
+        {
+          "name": "Виноградная газировка",
+          "availability": true
+        }
+      ]
+    },
+    {
+      "name": "Podonki LAST HAP 50/60mg",
+      "price": "17р",
+      "flavors": [
+        {
+          "name": "Личи виноград мята",
+          "availability": true
+        },
+        {
+          "name": "Малина лемонграсс",
+          "availability": true
+        },
+        {
+          "name": "Вишня лайм лёд",
+          "availability": true
+        },
+        {
+          "name": "Смородиновый скиттлс",
+          "availability": true
+        },
+        {
+          "name": "Ежевичный лимонад",
+          "availability": true
+        },
+        {
+          "name": "Виноградный холлс",
+          "availability": true
+        },
+        {
+          "name": "Черника малина мята",
+          "availability": true
+        },
+        {
+          "name": "Кислая маракуйя",
+          "availability": true
+        },
+        {
+          "name": "Вишня персик",
+          "availability": true
+        },
+        {
+          "name": "Манго апельсин гуава",
+          "availability": true
+        }
+      ]
+    },
+    {
+      "name": "Самоубийца V2 ACiD",
+      "price": "18р",
+      "flavors": [
+        {
+          "name": "Кислая резинка смородина брусника",
+          "availability": true
+        },
+        {
+          "name": "Кислый тархун земляника",
+          "availability": true
+        },
+        {
+          "name": "Кислая облепиха вишня",
+          "availability": true
+        },
+        {
+          "name": "Кислые леденцы виноград алоэ",
+          "availability": true
+        },
+        {
+          "name": "Кислый мятный лимон арбуз",
+          "availability": true
+        },
+        {
+          "name": "Кислая слива с апельсином",
+          "availability": true
+        }
+      ]
+    },
+    {
+      "name": "ANNIMA LOVE 60mg",
+      "price": "17р",
+      "flavors": [
+        {
+          "name": "Кислая вишня лимон",
+          "availability": true
+        },
+        {
+          "name": "Кислая ежевика клубника",
+          "availability": true
+        },
+        {
+          "name": "Кислый лайм черешня",
+          "availability": true
+        },
+        {
+          "name": "Кислые лесные ягоды",
+          "availability": true
+        },
+        {
+          "name": "Кислый зеленый виноград",
+          "availability": true
+        },
+        {
+          "name": "Кислые малиновые червячки",
+          "availability": true
+        },
+        {
+          "name": "Кислый фруктовый энергетик",
+          "availability": true
+        },
+        {
+          "name": "Кислая черника малина",
+          "availability": true
+        },
+        {
+          "name": "Энергетик кислая вишня",
+          "availability": true
+        },
+        {
+          "name": "Кислый персик маракуйя",
+          "availability": true
+        }
+      ]
+    },
+    {
+      "name": "Злая монашка 70mg",
+      "price": "20р",
+      "flavors": [
+        {
+          "name": "Энергетик виноград",
+          "availability": true
+        },
+        {
+          "name": "Клубника личи",
+          "availability": true
+        },
+        {
+          "name": "Ягодный морс",
+          "availability": true
+        },
+        {
+          "name": "Арбуз вишня",
+          "availability": true
+        },
+        {
+          "name": "Клубника дыня",
+          "availability": true
+        },
+        {
+          "name": "Вишня черника",
+          "availability": true
+        },
+        {
+          "name": "Смородина голубика",
+          "availability": true
+        },
+        {
+          "name": "Энергетик вишня",
+          "availability": true
+        },
+        {
+          "name": "Клубника киви маракуйя",
+          "availability": true
+        },
+        {
+          "name": "Двойное яблоко персик",
+          "availability": true
+        }
+      ]
+    },
+    {
+      "name": "BJORN\"Темный хор\" 80mg",
+      "price": "20р",
+      "flavors": [
+        {
+          "name": "Голубика лёд",
+          "availability": true
+        },
+        {
+          "name": "Вишня",
+          "availability": true
+        },
+        {
+          "name": "Ягодный микс",
+          "availability": true
+        },
+        {
+          "name": "Клубничный лимонад",
+          "availability": true
+        },
+        {
+          "name": "Лимон лайм",
+          "availability": true
+        },
+        {
+          "name": "Энергетик",
+          "availability": true
+        },
+        {
+          "name": "Ягодный микс ментол",
+          "availability": true
+        },
+        {
+          "name": "Ягоды мята",
+          "availability": true
+        },
+        {
+          "name": "Малина лёд",
+          "availability": true
+        },
+        {
+          "name": "Арбуз лёд",
+          "availability": true
+        }
+      ]
+    },
+    {
+      "name": "ANNIMA & САМОУБИЙЦА V2 80mg",
+      "price": "20р",
+      "flavors": [
+        {
+          "name": "Арбуз малина",
+          "availability": true
+        },
+        {
+          "name": "Скиттлс",
+          "availability": true
+        },
+        {
+          "name": "Маунти дью",
+          "availability": true
+        },
+        {
+          "name": "Экзотический микс",
+          "availability": true
+        },
+        {
+          "name": "Сибирские ягоды",
+          "availability": true
+        },
+        {
+          "name": "Клубника персик вишня",
+          "availability": true
+        },
+        {
+          "name": "Цитрусовый энергетик",
+          "availability": true
+        },
+        {
+          "name": "Энергетик киви",
+          "availability": true
+        },
+        {
+          "name": "Виноградная жвачка",
+          "availability": true
+        },
+        {
+          "name": "Виноград мята",
+          "availability": true
+        }
+      ]
+    },
+    {
+      "name": "Злая Монашка SWEET 80mg",
+      "price": "20р",
+      "flavors": [
+        {
+          "name": "Черная смородина клюква",
+          "availability": true
+        },
+        {
+          "name": "Черника дыня",
+          "availability": true
+        },
+        {
+          "name": "Смородина мята",
+          "availability": true
+        },
+        {
+          "name": "Ягодный морс со льдом",
+          "availability": true
+        },
+        {
+          "name": "Черника малина мята",
+          "availability": true
+        },
+        {
+          "name": "Клубника малина мята",
+          "availability": true
+        },
+        {
+          "name": "Редбулл малина",
+          "availability": true
+        },
+        {
+          "name": "Малина персик",
+          "availability": true
+        },
+        {
+          "name": "Малиновый баблгам",
+          "availability": true
+        }
+      ]
+    }
+  ]
+}

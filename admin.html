@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Админ панель - VPARIVANIE</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <a href="index.html" class="logo">
+                <img src="images/logo.png" alt="VPARIVANIE" class="logo-img">
+            </a>
+            <nav class="nav">
+                <button class="nav-toggle" aria-label="Меню">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+                <ul class="nav-list">
+                    <li><a href="index.html" class="nav-link">Главная</a></li>
+                    <li><a href="жидкости.html" class="nav-link">Жидкости</a></li>
+                    <li><a href="расходники.html" class="nav-link">Расходники</a></li>
+                    <li><a href="подики.html" class="nav-link">Подики</a></li>
+                    <li><a href="одноразки.html" class="nav-link">Одноразки</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="main">
+        <section class="page-header">
+            <div class="container">
+                <h1>Админ панель</h1>
+                <p>Управление наличием товаров</p>
+            </div>
+        </section>
+
+        <section class="page-content">
+            <div class="container">
+                <div class="admin-container">
+                    <div class="login-form" id="loginForm">
+                        <h2>Вход для менеджеров</h2>
+                        <form id="adminLoginForm">
+                            <div class="form-group">
+                                <label for="adminPassword">Пароль:</label>
+                                <input type="password" id="adminPassword" required>
+                            </div>
+                            <button type="submit" class="btn">Войти</button>
+                        </form>
+                    </div>
+
+                    <div class="admin-panel" id="adminPanel" style="display: none;">
+                        <div class="admin-header">
+                            <h2>Управление наличием</h2>
+                            <div class="admin-actions">
+                                <button class="btn" id="saveChangesBtn">Сохранить изменения</button>
+                                <button class="btn btn-secondary" id="logoutBtn">Выйти</button>
+                            </div>
+                        </div>
+
+                        <div class="admin-search">
+                            <input type="text" id="adminSearch" placeholder="Поиск товара...">
+                        </div>
+
+                        <div class="admin-tabs">
+                            <button class="admin-tab active" data-tab="liquids">Жидкости</button>
+                            <button class="admin-tab" data-tab="cartridges">Картриджи/Испарители</button>
+                            <button class="admin-tab" data-tab="pods">Подики</button>
+                            <button class="admin-tab" data-tab="disposables">Одноразки</button>
+                        </div>
+
+                        <div class="admin-content">
+                            <div class="admin-section active" id="liquids">
+                                <h3>Жидкости</h3>
+                                <div id="liquidsList"></div>
+                            </div>
+                            <div class="admin-section" id="cartridges">
+                                <h3>Картриджи/Испарители</h3>
+                                <div id="cartridgesList"></div>
+                            </div>
+                            <div class="admin-section" id="pods">
+                                <h3>Подики</h3>
+                                <div id="podsList"></div>
+                            </div>
+                            <div class="admin-section" id="disposables">
+                                <h3>Одноразки</h3>
+                                <div id="disposablesList"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-info">
+                    <h3>VPARIVANIE</h3>
+                    <p>Магазин электронных сигарет</p>
+                </div>
+                <div class="footer-contacts">
+                    <h4>Контакты для заказа:</h4>
+                    <p>Болдино: <a href="https://t.me/CPBaner" target="_blank">@CPBaner</a></p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 VPARIVANIE. Все права защищены.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="admin.js"></script>
+</body>
+</html>
