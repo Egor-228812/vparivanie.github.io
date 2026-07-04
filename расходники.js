@@ -36,10 +36,8 @@ function renderCartridgeCards(items) {
         const card = document.createElement('div');
         card.className = 'product-card';
         card.innerHTML = `
-            <div class="product-image">Фото товара</div>
             <div class="product-info">
                 <div class="product-name">${item.name}</div>
-                <div class="product-description">Картридж/Испаритель</div>
                 <div class="product-price">${item.price}</div>
                 <span class="product-status ${status}">${statusLabel}</span>
             </div>

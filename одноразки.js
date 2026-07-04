@@ -36,7 +36,7 @@ function renderDisposableCards(items) {
             'DualBar 12000': 'images/dualBar.png',
             'Puffmi flora 25000': 'images/puffmi_flora.png'
         };
-        const imgSrc = imageMap[item.name] || 'images/any_pod.png';
+        const imgSrc = imageMap[item.name] || 'images/puffmi_flora.png';
 
         const card = document.createElement('div');
         card.className = 'product-card';
