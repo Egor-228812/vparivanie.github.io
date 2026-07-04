@@ -1,3 +1,29 @@
 {
-  "items": []
+  "items": [
+    {
+      "name": "Xros[0.6om]",
+      "price": "13р",
+      "availability": true
+    },
+    {
+      "name": "Xros[0.8om]",
+      "price": "13р",
+      "availability": true
+    },
+    {
+      "name": "Xros[0.4om]",
+      "price": "13р",
+      "availability": true
+    },
+    {
+      "name": "V.Thru[0.7om]",
+      "price": "13р",
+      "availability": true
+    },
+    {
+      "name": "Aegis/Boost[0.3om]",
+      "price": "13р",
+      "availability": true
+    }
+  ]
 }
